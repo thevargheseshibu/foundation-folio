@@ -16,7 +16,7 @@ This is a basic e-commerce application built with React and styled using Foundat
 2. **Navigate to the project directory:**
 
     ```bash
-    cd e-commerce-react-app
+    cd foundation-folio
     ```
 
 3. **Install dependencies:**
