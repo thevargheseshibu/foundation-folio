@@ -1,6 +1,9 @@
 # Simple E-Commerce React App
 
 This is a basic e-commerce application built with React and styled using Foundation CSS.
+![E-Commerce App Screenshot](https://github.com/thevargheseshibu/foundation-folio/blob/master/images/pc.png)
+![E-Commerce App Screenshot](https://github.com/thevargheseshibu/foundation-folio/blob/master/images/mobile.png)
+
 
 ## Getting Started
 
@@ -35,7 +38,7 @@ This is a basic e-commerce application built with React and styled using Foundat
 - Product listing
 - Basic styling with Foundation CSS
 
-#images
+
 
 
 
